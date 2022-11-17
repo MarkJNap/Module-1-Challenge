@@ -14,6 +14,10 @@ The usage of this website is fairly basic and acts as a homepage for the company
 The github pages link is as follows:
 https://markjnap.github.io/Module-1-Challenge/
 
+Screenshot of completed webpage
+
+[<img src="/assets/images/Homepage-screenshot.png" alt="Website homepage" width="600" height="800"/>](/assets/images/Homepage-screenshot.png)
+
 ## Credits
 Mark Napolitano
 
